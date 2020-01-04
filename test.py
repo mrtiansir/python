@@ -2,7 +2,6 @@
 # _*_ coding=utf-8 _*_
 # python basic scripts
 
-import sys
-import random
-import ssl
+print("hello world!")
+print("hello python!")
 
